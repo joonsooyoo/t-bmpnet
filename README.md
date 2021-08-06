@@ -5,6 +5,9 @@ t-BMPNet: trainable Bitwise Multilayer Perceptron Neural Network over Fully Homo
 BMPNet uses TFHE library: https://tfhe.github.io/tfhe/
 (For the environment setting, go to the URL above and download the latest version.)
 
+Our Basic Functions are in FHE_Feedforward/HomOper.c
+You can check how it is constructed.
+
 Experiment Folder (t-BMPNet and Other Approaches)
 1. FHE_Feedforward: contains Feedforward Neural Network using Boolean Gates
 2. FHE_trainable_BMPNet: contains trainable Bitwise Neural Network using Boolean Gates (in our words, t-BMPNet)
