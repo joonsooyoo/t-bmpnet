@@ -1,6 +1,6 @@
 # t-bmpnet
 
-t-BMPNet: trainable Bitwise Multilayer PerceptronNeural Network over Fully HomomomorphicEncryption scheme
+t-BMPNet: trainable Bitwise Multilayer PerceptronNeural Network over Fully Homomomorphic Encryption scheme
 
 BMPNet uses TFHE library: https://tfhe.github.io/tfhe/
 (For the environment setting, go to the URL above and download the latest version.)
